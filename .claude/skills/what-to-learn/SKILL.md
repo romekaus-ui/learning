@@ -1,6 +1,6 @@
 ---
 name: what-to-learn
-description: 'Aitab valida eriala, ülikooli ja teadussuunda kolmes etapis. Kõigepealt puhas huvi, siis väljund (töö või teadus), siis konkreetse õppekava ja kooli valik päris andmete põhjal. Helps choose a university, a major and a research direction. Kasuta seda alati, kui kasutaja mõtleb, mida õppida, mis erialale minna, millist ülikooli valida, kas minna teadusesse või doktorantuuri, millise uurimisrühma või juhendaja juurde, kas mingi konkreetne töökoht või ettevõte on ettevalmistust väärt, milliseid oskusi mingi amet nõuab, või ütleb midagi sellist nagu "ma ei tea mida õppida", "mis erialale minna", "kuhu ülikooli", "kas tasub X õppida", "tahan teadusesse minna", "what should I study", "which university", "is X worth studying". Käivitu ka siis, kui küsimus on esitatud möödaminnes või kahtlevalt, mitte otsese palvena plaani koostada.'
+description: 'Aitab valida eriala, ülikooli ja teadussuunda kolmes etapis. Kõigepealt puhas huvi, siis väljund (töö või teadus), siis konkreetse õppekava ja kooli valik päris andmete põhjal. Helps choose a university, a major and a research direction. Kasuta seda alati, kui kasutaja mõtleb, mida õppida, mis erialale minna, millist ülikooli valida, kas minna teadusesse või doktorantuuri, millise uurimisrühma või juhendaja juurde, kas mingi konkreetne töökoht või ettevõte on ettevalmistust väärt, milliseid oskusi mingi amet nõuab, või ütleb midagi sellist nagu "ma ei tea mida õppida", "mis erialale minna", "kuhu ülikooli", "kas tasub X õppida", "tahan teadusesse minna", "what should I study", "which university", "is X worth studying", "tahan välismaale õppima", "kas teha SAT", "sporditulemustega ülikooli", "NCAA", "study abroad", "apply to US universities". Käivitu ka siis, kui küsimus on esitatud möödaminnes või kahtlevalt, mitte otsese palvena plaani koostada.'
 ---
 
 # Eriala, ülikooli ja teadussuuna valik
@@ -85,6 +85,11 @@ teadus on üldse valik, nii et kirjelda vahet lühidalt:
 Need ei ole teineteist välistavad — paljud erialad lubavad hiljem valida.
 Ütle see välja, sest see vähendab otsuse kaalu.
 
+Kui **sport** on kasutaja jaoks oluline, on see kolmas võimalik väljund — ja
+USA-s on ülikoolisport ja tippsport sama asi, mida Euroopas ei ole. Küsi siis
+kohe, kas sport on **eesmärk või vahend** hariduse rahastamiseks, ja loe
+`references/valismaa-ja-usa.md`.
+
 ### 2A — Töö
 
 Alusta tööpäeva kujust, mitte valdkonna nimest:
@@ -154,9 +159,20 @@ Kaks asja, mida kasutajale teadusest öelda, sest neid tavaliselt ei teata:
 Alles nüüd, kui huvi ja väljund on selged, vali kool. Vastupidine järjekord —
 kõigepealt kool, siis eriala — on kõige levinum viga.
 
-Üksikasjalikud juhised, kuidas õppekavasid võrrelda ja mida vastuvõtust
-vaadata: **`references/oppekava-ja-ulikool.md`**. Loe see läbi, kui jõuad
-siia.
+Küsi kõigepealt kaks asja, mis muudavad kogu ülejäänud plaani:
+
+- **Eesti või välismaa?** Kui välismaa või USA tuleb jutuks, loe
+  **`references/valismaa-ja-usa.md`**. Ära hakka koole loetlema — seal on
+  filter, mis kitsendab raha ja eesmärgi järgi. Eesti kodanik on EL-i kodanik,
+  mis teeb Mandri-Euroopa sageli odavamaks kui kodus elamine; paljud ei tea
+  seda ja vaatavad kohe USA poole.
+- **Kas vahepeal on auk?** Ajateenistus, asendusteenistus, vahetusaasta või
+  töötamine. See ei ole pelgalt viivitus: USA sporditee puhul võib see
+  **maksta ühe võistlusaasta** (vt sama fail, NCAA kell). Kui kasutaja
+  nimetab teenistusaastat, võta see kohe üles, ära jäta lõppu.
+
+Eesti õppekavade võrdlemiseks ja vastuvõtuks:
+**`references/oppekava-ja-ulikool.md`**.
 
 Lühidalt, kolm asja:
 
