@@ -174,7 +174,9 @@ Küsi kõigepealt kaks asja, mis muudavad kogu ülejäänud plaani:
   nimetab teenistusaastat, võta see kohe üles, ära jäta lõppu.
 
 Eesti õppekavade võrdlemiseks ja vastuvõtuks:
-**`references/oppekava-ja-ulikool.md`**.
+**`references/oppekava-ja-ulikool.md`**. Raha ja stipendiumide kohta:
+**`references/stipendiumid.md`** — neli eri süsteemi, mille kriteeriumid
+ei ole võrreldavad ja mida kasutaja ajab tavaliselt segi.
 
 Lühidalt, kolm asja:
 
