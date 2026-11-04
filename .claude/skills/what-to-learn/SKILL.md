@@ -1,139 +1,197 @@
 ---
 name: what-to-learn
-description: 'Aitab otsustada, mida õppida — kahes etapis: kõigepealt puhtast huvist lähtuvalt, seejärel töö ja konkreetsete ametikohtade nõuete põhjal. Helps decide what to study or learn next in two deliberate passes: genuine interest first, then real job requirements. Kasuta seda alati, kui kasutaja mõtleb, mida õppida, millist eriala või ülikooli valida, mis valdkonda minna, kas mingi konkreetne töökoht või ettevõte on ettevalmistust väärt, milliseid oskusi mingi amet nõuab, või ütleb midagi sellist nagu "ma ei tea mida õppida", "mis erialale minna", "kas tasub X õppida", "what should I learn", "is X worth studying", "I want to work at company X, what do I need". Käivitu ka siis, kui küsimus on esitatud möödaminnes või kahtlevalt, mitte otsese palvena plaani koostada.'
+description: 'Aitab valida eriala, ülikooli ja teadussuunda kolmes etapis. Kõigepealt puhas huvi, siis väljund (töö või teadus), siis konkreetse õppekava ja kooli valik päris andmete põhjal. Helps choose a university, a major and a research direction. Kasuta seda alati, kui kasutaja mõtleb, mida õppida, mis erialale minna, millist ülikooli valida, kas minna teadusesse või doktorantuuri, millise uurimisrühma või juhendaja juurde, kas mingi konkreetne töökoht või ettevõte on ettevalmistust väärt, milliseid oskusi mingi amet nõuab, või ütleb midagi sellist nagu "ma ei tea mida õppida", "mis erialale minna", "kuhu ülikooli", "kas tasub X õppida", "tahan teadusesse minna", "what should I study", "which university", "is X worth studying". Käivitu ka siis, kui küsimus on esitatud möödaminnes või kahtlevalt, mitte otsese palvena plaani koostada.'
 ---
 
-# Mida õppida — kahes etapis
+# Eriala, ülikooli ja teadussuuna valik
 
-See oskus aitab inimesel valida õppesuunda. Töö käib **kahes eraldi etapis**, ja
+See oskus aitab inimesel valida, mida õppida. Töö käib **kolmes etapis**, ja
 nende eraldihoidmine ongi kogu mõte.
 
-## Miks kaks etappi, mitte üks
+Kolm otsust, mida sageli segi aetakse — hoia need lahus:
+
+| Otsus | Mis tegelikult loeb |
+|---|---|
+| **Eriala** | Mida sa päevast päeva teed. Kõige tähtsam otsus |
+| **Ülikool** | Enamikul erialadel Eestis vähem tähtis, kui arvatakse |
+| **Teadussuund** | Uurimisrühm ja juhendaja, mitte kooli nimi |
+
+## Miks mitte küsida kõike korraga
 
 Kui küsida korraga "mis sind huvitab ja mis annab tööd?", vastab inimene juba
-filtreeritult. Ta jätab nimetamata asjad, mis tunduvad kasutud, ja nimetab asju,
-mis kõlavad mõistlikult. Nii kaob just see info, mille pärast küsimus üldse
-esitati.
+filtreeritult. Ta jätab nimetamata asjad, mis tunduvad kasutud, ja nimetab
+asju, mis kõlavad mõistlikult. Nii kaob just see info, mille pärast küsimus
+üldse esitati.
 
-Seepärast: **esimeses etapis ei tohi kasulikkusest rääkida.** Alles teises
-etapis tuleb töö ja raha jutuks. Lõpuks vaatad, kus need kaks kattuvad.
+Seepärast: **esimeses etapis ei tohi kasulikkusest rääkida.** Ütle see
+kasutajale kohe välja — kui ta mõttest aru saab, teeb ta palju paremini
+koostööd:
 
-Ütle see kasutajale kohe alguses välja — see on lihtne mõte ja kui ta sellest
-aru saab, teeb ta esimeses etapis palju paremini koostööd. Midagi sellist:
-
-> Teen seda kahes jaos. Kõigepealt küsin ainult selle kohta, mis sind päriselt
-> huvitab — ja palun ära mõtle veel sellele, kas sellega saab tööd. Pärast
-> võtame töö eraldi ette ja vaatame, kus need kokku saavad.
+> Teen seda kolmes jaos. Kõigepealt küsin ainult selle kohta, mis sind
+> päriselt huvitab — palun ära mõtle veel sellele, kas sellega saab tööd või
+> kuhu sisse saab. Pärast võtame eraldi ette väljundi ja siis kooli.
 
 ## Kuidas küsida
 
-Küsi **1–3 küsimust korraga**, mitte rohkem. Pikk küsimustik annab lühikesed ja
-pinnapealsed vastused, sest inimene hakkab neid kiiresti ära vastama.
+Küsi **1–3 küsimust korraga**. Pikk küsimustik annab lühikesed vastused, sest
+inimene hakkab neid kiiresti ära vastama.
 
-Kui vastus on "ma ei tea" või midagi väga üldist ("mulle meeldib tehnoloogia"),
-ära rahuldu sellega ja ära korda sama küsimust. Küsi hoopis **konkreetset
-hiljutist näidet**. Inimene ei tea sageli oma huvisid abstraktselt, aga mäletab
-hästi, mida ta eelmisel nädalal tegi.
+Kui vastus on "ma ei tea" või väga üldine ("mulle meeldib teadus"), ära korda
+sama küsimust. Küsi **konkreetset hiljutist näidet** — inimene ei tea oma
+huvisid abstraktselt, aga mäletab, mida ta eelmisel nädalal tegi.
 
-Keel: küsi eesti keeles. Erialanimetused, otsingusõnad ja ametinimetused anna
-ka inglise keeles sulgudes — sest kursused, töökuulutused ja dokumentatsioon,
-mida kasutaja pärast otsima hakkab, on enamasti ingliskeelsed.
+Keel: küsi eesti keeles. Erialade, ametite ja uurimisvaldkondade nimed anna ka
+inglise keeles sulgudes — otsingud, kursused ja teadusartiklid on enamasti
+ingliskeelsed.
 
 ---
 
 ## Etapp 1 — Huvi
 
-Eesmärk: leida üles see, mille poole inimene ise kaldub, ilma et ta peaks seda
+Eesmärk: leida see, mille poole inimene ise kaldub, ilma et ta peaks seda
 põhjendama.
 
-Kasulikud küsimused (vali neist, ära küsi kõiki):
+Vali neist küsimustest, ära küsi kõiki:
 
 - Mida sa viimase kuu jooksul ise otsisid või lugesid, ilma et keegi oleks
   käskinud?
-- Mida sa teed siis, kui sul on vaba õhtu ja keegi ei hinda sind?
-- Mida sa teistele seletad või soovitad, ilma et nad küsiks?
+- Mida sa teed vabal õhtul, kui keegi sind ei hinda?
+- Mida sa teistele seletad, ilma et nad küsiks?
 - Mis sind piisavalt närvi ajab, et tahaksid selle ära parandada?
-- Kui sa saaksid koolis kõik ained peale ühe ära jätta, mis jääks alles?
-- Millest sa oskaksid rääkida 20 minutit ilma ettevalmistuseta?
+- Kui sa saaksid koolis kõik ained peale ühe ära jätta, mis jääks?
+- Millest sa räägiksid 20 minutit ilma ettevalmistuseta?
 
-Kuula vastustes **mustrit**, mitte üksikuid vastuseid. Inimene võib nimetada
-viit täiesti erinevat asja, aga neis on sageli ühine tegevus: lahtivõtmine ja
-kokkupanek, inimeste veenmine, korra loomine kaosesse, millegi nullist
-ehitamine. Nimeta see muster talle välja ja küsi, kas tundub õige. See on
-sageli kogu vestluse kõige väärtuslikum hetk.
+Kuula **mustrit**, mitte üksikuid vastuseid. Inimene võib nimetada viit
+erinevat asja, milles on sama tegevus: lahtivõtmine ja kokkupanek, korra
+loomine kaosesse, inimeste veenmine, nullist ehitamine, põhjuse otsimine.
+Nimeta muster välja ja küsi, kas tundub õige. See on sageli kogu vestluse
+väärtuslikuim hetk.
 
-Kui kasutaja hakkab ise kasulikkusest rääkima ("aga sellega ju tööd ei saa"),
-tuleta sõbralikult meelde, et see tuleb järgmises etapis, ja küsi edasi.
+Kui kasutaja hakkab kasulikkusest rääkima ("aga sellega ju tööd ei saa"),
+tuleta sõbralikult meelde, et see tuleb järgmises etapis.
 
 ---
 
-## Etapp 2 — Töö
+## Etapp 2 — Väljund: töö või teadus
 
-Eesmärk: saada **konkreetsed** nõuded, mitte üldine ettekujutus ametist.
+Küsi kõigepealt, kumb suund teda kõnetab — või mõlemad. Paljud ei tea, et
+teadus on üldse valik, nii et kirjelda vahet lühidalt:
 
-Alusta sellest, mis tööpäev talle sobiks — see kitsendab valikut rohkem kui
-valdkonna nimi:
+- **Töö**: sa lahendad probleeme, mille keegi teine on püstitanud. Tulemus
+  läheb kasutusse kiiresti.
+- **Teadus**: sa püstitad probleemid ise. Tulemus on aeglane ja ebakindel, aga
+  küsimus on sinu valitud.
 
-- Üksi või meeskonnas?
-- Sees või väljas?
-- Kätega või ekraani taga?
+Need ei ole teineteist välistavad — paljud erialad lubavad hiljem valida.
+Ütle see välja, sest see vähendab otsuse kaalu.
+
+### 2A — Töö
+
+Alusta tööpäeva kujust, mitte valdkonna nimest:
+
+- Üksi või meeskonnas? Sees või väljas? Kätega või ekraani taga?
 - Stabiilne rutiin või iga päev erinev?
-- Kas sa tahad, et töö lõpeb uksest välja astudes, või on sul hea meel, kui see
-  sinuga koju tuleb?
+- Kas töö peaks uksest välja astudes lõppema või tohib koju tulla?
 
-Seejärel küsi **konkreetseid nimesid**: millised ettevõtted, organisatsioonid
-või inimesed tunduvad talle huvitavad? Nimi on siin oluline, sest üldisest
-valdkonnast ei saa nõudeid tuletada, konkreetsest töökohast saab.
+Seejärel küsi **konkreetseid nimesid**: millised ettevõtted või ametid tunduvad
+huvitavad? Üldisest valdkonnast ei saa nõudeid tuletada, konkreetsest
+töökohast saab.
 
-### Konkreetse töökoha pöördprojekteerimine
+**Pöördprojekteerimine.** Kui kasutaja nimetab ameti või ettevõtte, ära paku
+haridusnõudeid mälu järgi — **vaata päris töökuulutusi** (allikad:
+`references/eesti-allikad.md`). Loe, mida seal tegelikult nõutakse, ja eralda
+kolm asja:
 
-See on etapi 2 tuum ja sageli kogu vestluse kõige kasulikum osa. Kui kasutaja
-nimetab ettevõtte või ameti, mis talle meeldib, **ära paku haridust mälu järgi
-— vaata päris töökuulutusi.**
+- **Diplom kohustuslik** — reguleeritud kutsed (arst, jurist, õpetaja, mõned
+  inseneriametid). Siit mööda ei saa.
+- **Diplom aitab** — enamik kontoritööd. Esimesed 2 aastat kogemust loevad
+  rohkem kui kooli nimi.
+- **Diplom ei loe** — portfell ja projektid loevad rohkem (programmeerimine,
+  disain, sisuloome, müük).
 
-1. Otsi selle ettevõtte või ametinimetuse päris töökuulutusi (vaata
-   `references/eesti-allikad.md`).
-2. Loe läbi, mida seal **tegelikult** nõutakse — mitte see, mida arvatakse, et
-   nõutakse.
-3. Eralda kolm asja:
-   - **Nõutav diplom** — reguleeritud ametid (arst, jurist, õpetaja, insener
-     teatud rollides). Siin diplomist mööda ei saa.
-   - **Diplom aitab, aga ei ole kohustuslik** — enamik kontoritööd. Siin loeb
-     diplom vähem kui esimesed 2 aastat kogemust.
-   - **Diplom ei loe** — portfell, projektid ja näidistööd loevad rohkem
-     (disain, programmeerimine, sisuloome, müük).
-4. Ütle kasutajale, kummaga tegu. See üksainus eristus muudab sageli kogu
-   otsust, sest inimesed eeldavad vaikimisi esimest varianti ka seal, kus see
-   ei kehti.
+See üksainus eristus muudab sageli kogu otsust, sest inimesed eeldavad
+vaikimisi esimest varianti ka seal, kus see ei kehti.
 
-Kui töökuulutusi ei leia või neid on liiga vähe, ütle seda ausalt ja otsi
-asemele kutsestandard või erialakirjeldus — ära täida lünka oletusega.
+### 2B — Teadus
+
+Teaduses ei ole tööandjat, kellele kandideerida. On **uurimisrühm ja
+juhendaja** — ja nende valik loeb rohkem kui ülikooli nimi. Tugev rühm
+väiksemas koolis on parem kui nõrk rühm kuulsas koolis. Ütle see välja, sest
+see on vastuolus sellega, kuidas enamik inimesi ülikoolile mõtleb.
+
+Küsi:
+
+- Milline küsimus sind huvitab? Mitte valdkond, vaid küsimus, millele sa
+  tahaksid vastust teada.
+- Kas sulle meeldib rohkem **katseid teha** (labor, välitöö, andmekogumine)
+  või **mõelda ja arvutada** (teooria, modelleerimine, analüüs)? See jaotus
+  eristab päris tööpäevi rohkem kui eriala nimi.
+- Kas sa talud seda, et asi aastaid ei õnnestu?
+
+**Pöördprojekteerimine teaduses** — ära soovita valdkonda mälu järgi, vaata
+päris rühmi:
+
+1. Otsi ETIS-est (etis.ee), kes Eestis seda teemat tegelikult uurib. See on
+   ametlik teadusinfosüsteem: inimesed, projektid, publikatsioonid.
+2. Vaata rühma **viimase paari aasta publikatsioone** — mitte osakonna
+   tutvustust. Tutvustus on turundus, artiklite pealkirjad on tegelikkus.
+3. Vaata hiljuti kaitstud doktoritöid. Nii näed, milline üks doktorantuur seal
+   päriselt välja näeb.
+4. **Kirjuta teadlasele.** Üliõpilaskandidaatidele vastatakse sageli hea
+   meelega. Üks aus vestlus annab rohkem kui kümme õppekavakirjeldust.
+
+Kaks asja, mida kasutajale teadusest öelda, sest neid tavaliselt ei teata:
+
+- **Doktorantuur on Eestis töökoht** (nooremteadur), mitte tasuta õppimine.
+  See muudab arvutust oluliselt.
+- Bakalaureuseõpe ei lukusta sind teadusse ega sealt välja. Suund otsustatakse
+  pigem magistri ja juhendaja valikuga.
 
 ---
 
-## Etapp 3 — Kus need kokku saavad
+## Etapp 3 — Õppekava ja ülikool
 
-Pane kaks etappi kõrvuti ja nimeta neli asja:
+Alles nüüd, kui huvi ja väljund on selged, vali kool. Vastupidine järjekord —
+kõigepealt kool, siis eriala — on kõige levinum viga.
 
-1. **Kattuvus** — huvi ja töö langevad kokku. Need on tugevaimad kandidaadid.
-2. **Huvi ilma tööta** — ütle ausalt välja, et sellega tõenäoliselt elatist ei
-   teeni, ja soovita hoida seda kõrvaltegevusena. See ei ole halb uudis; halb
-   uudis on see avastada kolme aasta pärast.
-3. **Töö ilma huvita** — nimeta läbipõlemise risk. Kui inimene valib ainult
-   palga järgi, ütle seda talle otse, aga ära otsusta tema eest.
-4. **Lünk** — mis tal praegu puudu on, et esimese punkti suunas liikuda.
+Üksikasjalikud juhised, kuidas õppekavasid võrrelda ja mida vastuvõtust
+vaadata: **`references/oppekava-ja-ulikool.md`**. Loe see läbi, kui jõuad
+siia.
+
+Lühidalt, kolm asja:
+
+1. **Loe ainekava, mitte tutvustust.** Vaata semestrite kaupa päris ainete
+   nimekirja. Loe kokku, kui palju on matemaatikat. See üks arv ennustab
+   sobivust paremini kui kogu õppekava kirjeldus.
+2. **Sama eriala erineb koolide vahel rohkem kui erialad ühe kooli sees.**
+   Võrdle ainekavasid, mitte nimesid.
+3. **Kontrolli lävendit enne, kui eriala tõsiselt kaalud** (sais.ee). Ei ole
+   mõtet kuud veeta plaaniga, mille riigieksamite tulemused välistavad.
+
+---
+
+## Etapp 4 — Kus need kokku saavad
+
+Pane etapid kõrvuti ja nimeta neli asja:
+
+1. **Kattuvus** — huvi ja väljund langevad kokku. Tugevaimad kandidaadid.
+2. **Huvi ilma väljundita** — ütle ausalt, et sellega tõenäoliselt elatist ei
+   teeni, ja soovita hoida kõrvaltegevusena. Halb uudis ei ole see; halb uudis
+   on sama avastada kolme aasta pärast.
+3. **Väljund ilma huvita** — nimeta läbipõlemise risk otse, aga ära otsusta
+   tema eest.
+4. **Lünk** — mis on praegu puudu.
 
 ### Enne kui soovitada kolme aastat millegi peale kulutada
 
-Paku **väike ja odav katse**, millega saab oma huvi kontrollida nädala või kuu
-jooksul, mitte semestri jooksul. Näiteks: tee üks päris projekt algusest
-lõpuni, käi kedagi tööl vaatamas, tee tasuta kursuse esimene moodul ära, räägi
-ühe inimesega, kes seda tööd teeb.
+Paku **väike ja odav katse**, mille saab teha nädala või kuuga, mitte
+semestriga. Eriala valik on kallis ja aeglaselt tagasipööratav otsus, aga
+enamik huvisid on odavalt testitavad. Ütle see põhjendus ka välja, siis ta
+mõistab, miks sa teda kohe vastust andmast tagasi hoiad.
 
-Põhjus on lihtne: eriala valimine on kallis ja aeglaselt tagasipööratav otsus,
-aga enamik huvisid on odavalt testitavad. Mõistlik on teha odav test enne
-kallist otsust. Ütle see põhjendus kasutajale ka välja — siis ta mõistab, miks
-sa teda kohe vastust andmast tagasi hoiad.
+Näiteks: tee üks päris projekt lõpuni, tee tasuta kursuse esimene moodul,
+käi lahtiste uste päeval, kirjuta ühele teadlasele või inimesele, kes seda
+tööd teeb, osale õpilaste teadustööde konkursil.
 
 ---
 
@@ -146,34 +204,37 @@ seda liiga vara — poolik vestlus annab poole plaani.
 # Õppeplaan — [kuupäev]
 
 ## Mis mind huvitab
-[muster, mitte lihtsalt nimekiri; too välja ühisosa]
+[muster, mitte nimekiri]
 
-## Milline töö mulle sobiks
-[tööpäeva kuju + konkreetsed ettevõtted/ametid]
+## Töö või teadus
+[kumb suund ja miks]
 
-## Mida need ametid tegelikult nõuavad
-[päris töökuulutustest, viidetega; märgi ära diplom kohustuslik / aitab / ei loe]
+## Mida see tegelikult nõuab
+[päris töökuulutustest või päris uurimisrühmadest, viidetega]
 
-## Kus huvi ja töö kattuvad
+## Õppekavad, mida kaalun
+[2–3 konkreetset õppekava koolide kaupa, lävenditega]
+
+## Kus huvi ja väljund kattuvad
 [tugevaimad kandidaadid]
 
 ## Mis on puudu
 [konkreetne lünk]
 
 ## Järgmine samm
-[üks väike katse, mille saab ära teha kuu jooksul]
+[üks katse, mille saab kuu jooksul ära teha]
 ```
 
-Hoia plaan lühike. Pikk plaan jääb lugemata; üks konkreetne järgmine samm saab
-tehtud.
+Hoia lühike. Pikk plaan jääb lugemata; üks konkreetne samm saab tehtud.
 
 ## Mida vältida
 
-- **Ära anna nimekirja 15 erialast.** See ei ole abi, see on valikuparalüüs.
-  Kolm kandidaati on ülempiir.
-- **Ära otsusta kasutaja eest.** Sinu töö on tuua välja see, mida ta ise veel
-  sõnastanud ei ole, mitte valida tema elu.
-- **Ära kiida iga vastust heaks.** Kui huvi ja valitud eriala omavahel ei
-  haaku, ütle seda.
-- **Ära paku hariduslikke nõudeid mälu järgi.** Need muutuvad ja erinevad
-  riigiti. Vaata päris kuulutusi või kutsestandardit.
+- **Ära anna nimekirja 15 erialast.** See on valikuparalüüs, mitte abi. Kolm
+  kandidaati on ülempiir.
+- **Ära otsusta kasutaja eest.** Sinu töö on sõnastada see, mida ta ise veel
+  välja öelnud ei ole.
+- **Ära kiida iga vastust heaks.** Kui huvi ja valitud eriala ei haaku, ütle
+  seda.
+- **Ära paku nõudeid ega uurimisrühmi mälu järgi.** Need muutuvad. Vaata päris
+  kuulutusi, ETIS-t või kutsestandardit.
+- **Ära aja eriala ja kooli valikut segi.** Eriala kõigepealt, kool pärast.
