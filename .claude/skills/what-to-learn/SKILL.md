@@ -88,9 +88,9 @@ Need ei ole teineteist välistavad — paljud erialad lubavad hiljem valida.
 Kui **sport** on kasutaja jaoks oluline, on see kolmas võimalik väljund — ja
 USA-s on ülikoolisport ja tippsport sama asi, mida Euroopas ei ole. Küsi siis
 kohe, kas sport on **eesmärk või vahend** hariduse rahastamiseks, ja loe
-`references/valismaa-ja-usa.md`. Kergejõustiku ja viskealade puhul loe ka
-`references/kergejoustik-ncaa.md` — seal on riista kaalu küsimus, milleta
-ükski tulemus ei ole tõlgendatav.
+`references/valismaa-ja-usa.md`. Kergejõustiku viskealade puhul loe ka
+`references/odavise-ncaa.md` — seal on riista kaalu küsimus, milleta ükski
+tulemus ei ole tõlgendatav, ja meetod koolide nimekirja koostamiseks TFRRS-ist.
 
 ### 2A — Töö
 
