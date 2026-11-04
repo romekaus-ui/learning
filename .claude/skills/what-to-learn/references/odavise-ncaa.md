@@ -78,6 +78,39 @@ edetabelit ja loe kokku, kui paljud on välismaalased. See on parem tõend kui
 
 ---
 
+## Euroopas ei pea valima treeneri ja eriala vahel
+
+Kui kasutaja küsib "mis ülikoolis on hea treener ja hea eriala", **vaidlusta
+eeldus enne vastamist.** See on valik ainult USA-s.
+
+- **USA**: sport ja ülikool on ühte pakki seotud. Treener, võistlussüsteem ja
+  õppekava tulevad koos, ja halb sobivus ühes pooles rikub teise.
+- **Euroopa**: need on eri asutused. Õpid ülikoolis, treenid klubis. Saksamaa
+  ülikoolid ei pea omavahel võistlusi üldse.
+
+Euroopas saab seega **mõlemad eraldi valida** — parim treener ja parim eriala
+ei pea olema samas linnas isegi. See on paindlikkus, mida USA süsteem ei paku,
+ja kasutaja tavaliselt ei mõtle sellele, sest NCAA-st räägitakse rohkem.
+
+Enne USA koolinimekirja koostamist küsi: kas kodumaal või Euroopas on su alal
+tugev treener olemas? Odaviskes on Eestis maailmatasemel juhendamine olemas
+(Magnus Kirt, MM-hõbe, treenib Audenteses ja juhendab ka Soome tippe; tema
+enda treener oli Risto Mätas). Üks kiri kodumaisele treenerile on odavam kui
+neli aastat ja 60 000 dollarit.
+
+## Meistrid ei ole sihtkoolid
+
+Kui kasutaja vaatab NCAA meistrite nimekirja, selgita, et need koolid
+**värbavad valmis sportlasi, mitte ei arenda algajaid**. 52–55 m viskaja ei
+pääse nende rühma, ja kui pääseks, ei võistleks.
+
+Hea treener on see, **kelle sportlased paranevad**, mitte see, kelle juures on
+kiired sportlased. Seda saab TFRRS-ist kontrollida: vaata, kas kooli
+odaviskajate tulemused on aastate jooksul kasvanud või tulid nad juba valmis.
+
+Kontrolli ka, kas koolis on **odaviske** treener või üks "throws coach" kõigi
+viskealade peale. Odavise on tehniliselt teistest viskealadest kõige erinevam.
+
 ## Kuidas koolide nimekirja ise koostada
 
 Ära küsi "millised on parimad odaviske koolid" — vastus muutub igal aastal ja
