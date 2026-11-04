@@ -146,49 +146,92 @@ avaldab eraldi juhendi rahvusvaheliste akadeemiliste standardite kohta.
 
 ## Ajateenistus / asendusteenistus ja NCAA kell
 
-See on kõige olulisem ja kõige halvemini teada osa. **Võta seda tõsiselt.**
+Kõige olulisem ja kõige halvemini teada osa. Seleta see **algusest**, mitte
+järeldusest — kasutaja ei tea tõenäoliselt, mis NCAA kõlblikkus üldse on.
 
-### Mis muutus
+### Mis on kõlblikkus
 
-NCAA võttis 2026. aasta juunis vastu **vanusepõhise mudeli**. Viieaastane
-võistlusaken algab kas ülikooli astumisest **või õppeaastast pärast seda, kui
-sportlane saab 19**, kumb iganes tuleb enne. Kell tiksub ka siis, kui sa ei
-võistle. **Hilinenud astumise erandid (delayed-enrollment waivers) kaotati.**
+Kaks eraldi asja:
 
-Varem sai välismaalane, kes astus hiljem, erandit taotleda. Nüüd üldjuhul ei saa.
+- **Hooajad** — mitu aastat tohib võistelda. Tavaliselt **4**
+- **Aken** — mitme aasta jooksul need hooajad peavad mahtuma. Tavaliselt **5**
 
-### Miks see konkreetselt loeb
+"Five to play four". Viies aasta on **puhver**: vigastus, haigus või
+redshirt-aasta. Seda läheb varem või hiljem vaja.
 
-Kui inimene lõpetab gümnaasiumi, läheb aastaks teenistusse ja astub ülikooli
-alles pärast seda, võib kell olla **juba käima läinud** enne, kui ta esimest
-korda USA-s võistleb. See võib maksta ühe võistlusaasta.
+### Mis 2026. aasta juunis muutus
 
-### Erand — ja selle piirid
+**Vanasti** algas kell ülikooli astumisest. Sai pausi pidada ja saabuda värske
+aknaga; hilinemise korral sai erandit taotleda.
+
+**Nüüd** algab aken ülikooli astumisest **või õppeaastast pärast 19. sünnipäeva**,
+kumb iganes tuleb enne. Hilinenud astumise erandid **kaotati**.
+
+Põhimõtteline vahe: **kell tiksub ka siis, kui sportlane ei ole ülikoolis ega
+võistle kusagil.** See on kalendrikell, mitte tegevuse kell.
+
+### Mida see maksab
+
+Täpsusta siin, sest siin eksitakse kergesti: sportlane **ei kaota
+võistlushooaega** — ta kaotab **puhvri**.
+
+- Erandiga: 5 aastat akent, 4 hooaega → üks aasta varu
+- Erandita: 4 aastat akent, 4 hooaega → varu null
+
+Null varu tähendab, et iga vigastus või nõrk aasta sööb otse hooaja.
+Tehnilistel aladel, kus vigastusrisk on koondunud ühte kehaossa (viskajal
+õlg), on see tõsisem kui vastupidavusaladel.
+
+### Sünnikuu otsustab
+
+Arvuta kasutajaga konkreetselt läbi. Kui sünnipäev on **enne** õppeaasta algust
+(umbes enne septembrit), käivitub kell samal sügisel. Kui pärast, lükkub aasta
+edasi. **Paar kuud teeb kogu vahe** ja kasutaja ei oska seda ise küsida.
+
+### Erand ja selle piirid
+
+Kui teenistus kvalifitseerub, siis seda aastat ei loeta — kell seisab.
+Tingimus: sportlane **ei tohi sel ajal organiseeritud tasemel võistelda**.
+Trenni teha tohib.
 
 Erandite hulgas on **aktiivteenistus kaitseväes** (active-duty military
-service), usuline misjon ja rasedus. Erand kehtib ainult siis, kui sportlane
-sel ajal **ei võistle** organiseeritud tasemel.
+service), usuline misjon ja rasedus.
 
-Siin on kaks lahtist otsa, mida sa ei tohi kasutaja eest ära otsustada:
+### Kaks lahtist otsa — ära otsusta kasutaja eest
 
 1. **Kas välisriigi kohustuslik ajateenistus läheb arvesse?** Allikad on
-   vastuolus. Osa 2026. aasta juhendeid ütleb, et läheb; vanemad dokumendid
-   ütlesid sama; aga praegust ametlikku teksti selle kohta ma kinnitada ei
-   saa. **See tuleb küsida otse NCAA Eligibility Centerilt.**
+   vastuolus. Praegust ametlikku NCAA teksti selle kohta ei õnnestunud
+   kinnitada.
 
-2. **Asendusteenistus ei ole ajateenistus.** Erand on sõnastatud
-   kaitseväeteenistuse kohta. Tsiviilne asendusteenistus **ei pruugi** selle
-   alla käia. Kui kasutaja kaalub USA sporditeed, võib see vahe maksta ühe
-   võistlusaasta — ja see on argument, mida ta ilmselt ei ole kaalunud, kui ta
-   ajateenistuse ja asendusteenistuse vahel valib.
+2. **Asendusteenistus ei ole ajateenistus.** Erand on sõnastatud relvajõudude
+   aktiivteenistuse kohta. Tsiviilne asendusteenistus **ei pruugi** selle alla
+   käia. See on tuletus sõnastusest, **mitte kontrollitud fakt** — esita see nii.
 
-Ütle mõlemad punktid selgelt välja ja soovita kirjutada NCAA Eligibility
-Centerile **enne** teenistuse valikut, mitte pärast. Vastus on tasuta ja
-kirjalik vastus on väärt rohkem kui ükski nõuanne.
+Kui kasutaja valib teenistuse vormi ja USA on laual, võib see vahe maksta ühe
+aasta akent. Ütle mõlemad punktid selgelt välja ja soovita küsida **enne**
+valikut. NCAA uus mudel on ka kohtuvaidluse all ja võib muutuda.
 
-NCAA uus mudel on ka **kohtuvaidluse all**, nii et see võib veel muutuda.
+### Soovita kirjalikku päringut
 
----
+Aita kasutajal koostada konkreetne kiri NCAA Eligibility Centerile, mis küsib
+kolm asja: kas ajateenistus kvalifitseerub, kas asendusteenistus kvalifitseerub,
+ja kui kumbki ei kvalifitseeru, siis millal täpselt aken algab. Lisa sünniaeg
+ja plaanitav astumisaasta — ilma nendeta ei saa Eligibility Center vastata.
+
+Rõhuta: **kirjalik vastus ja alles hoida.** Kui reeglid muutuvad, on see tõend,
+mille alusel otsus tehti.
+
+### Struktuursed alternatiivid
+
+Erand ei ole ainus hoob. Need tasub läbi mõelda enne ajakava lukustamist:
+
+- **Ajapikendus õpingute tõttu** — paljudes riikides saab teenistust õppimise
+  tõttu edasi lükata. Eestis küsi Kaitseressursside Ametilt
+- **Teenistus kohe pärast kooli**, et see lõpeks varem
+- **Ülikool enne teenistust** — aga siis katkestab teenistus õpingud, millel on
+  omad NCAA tagajärjed, mida tuleb eraldi küsida
+
+Need ei ole soovitused, vaid küsimused, mida esitada enne, mitte pärast.
 
 ## Ajakava tagurpidi
 
