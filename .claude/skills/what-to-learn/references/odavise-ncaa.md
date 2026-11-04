@@ -132,3 +132,32 @@ Soovita kasutajal küsida varakult ja kirjalikult:
 - **Kaitseväelt** — millised teenistuse vormid lubavad treeningut jätkata
 
 Mõlemad enne teenistuse vormi valikut, mitte pärast.
+
+---
+
+## Kui tulemus ei ulatu D1 stipendiumitasemeni
+
+See on tavalisem olukord kui vastupidine, ja siin tehakse kõige sagedamini
+vale otsus: hakatakse jahtima osalist stipendiumi koolist, mis muidu ei
+huvita.
+
+Arvuta kasutajaga läbi, mida sport tegelikult maksab. Kergejõustiku
+stipendium on osaline (12,6 jagatud kogu meeskonna peale). Kui sport ei kata
+õpinguid niikuinii, siis **kaob põhjus valida kool spordi järgi**.
+
+Siis muutub kasulikuks hoopis teine tee: sport kui **vastuvõtuargument**,
+mitte rahaallikas.
+
+| Tee | Kuidas töötab |
+|---|---|
+| Ivy League | Spordistipendiumi ei ole, aga treeneri soovitus aitab sisse saada. Yale, Harvard, Princeton, Dartmouth on välismaalastele need-blind ja katavad vajaduse |
+| Tugevad akadeemilised D3 | Spordistipendiumi ei ole; jõukates koolides hea vajaduspõhine abi, sport aitab vastuvõtul |
+| D2 / NAIA | Stipendium on realistlik, aga vali ainult siis, kui kool ka erialaselt sobib |
+
+Vajaduspõhine abi need-blind koolis võib olla **rohkem raha** kui osaline
+stipendium D2-s. Ütle see välja — USA nõustamisfirmad seda ei paku, sest
+nende äri on stipendiumijaht.
+
+Ja tuleta meelde, et EL-i kodanikule on Mandri-Euroopa ~0–2500 € aastas,
+ilma NCAA kella, SAT-i ja amatöörstaatuseta. Kui sport ei ole eesmärk omaette,
+on see sageli parim tehing.
